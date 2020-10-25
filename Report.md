@@ -8,9 +8,8 @@ KeyValidator - приложение, проверяющее лицензионн
 На тестирование затрачено: 2 часа
 
 В результате тестирования выявлены следующие дефекты:
-* https://github.com/marosi13/KeyValidator/issues/1
-* https://github.com/marosi13/KeyValidator/issues/2
-* https://github.com/marosi13/KeyValidator/issues/3
+* Приложение не запускается при вводе валидного ключа https://github.com/marosi13/KeyValidator/issues/1
+* Приложение запускается при вводе невалидного ключа https://github.com/marosi13/KeyValidator/issues/3
 
 ## Описание процесса тестирования
 
