@@ -1,1 +1,1 @@
-##﻿Отчет о тестировании KeyValidator
+Отчет о тестировании KeyValidator
